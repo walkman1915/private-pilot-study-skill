@@ -1,8 +1,6 @@
 "use strict";
 
-var MY_APP_ID = require("./keys");
-
-var APP_ID = MY_APP_ID.APP_ID;  // TODO replace with your app ID (OPTIONAL).
+var APP_ID = process.env.APP_ID;
 
 var ANSWER_COUNT = 4; // The number of possible answers per trivia question.
 var GAME_LENGTH = 5;  // The number of questions per trivia game.
@@ -48,7 +46,7 @@ var languageString = {
     "en-US": {
         "translation": {
             "QUESTIONS" : questions["QUESTIONS_EN_US"],
-            "GAME_NAME" : "American Private Pilot Study Questions" // Be sure to change this for your skill.
+            "GAME_NAME" : "Private Pilot Study Questions" // Be sure to change this for your skill.
         }
     }
 };
