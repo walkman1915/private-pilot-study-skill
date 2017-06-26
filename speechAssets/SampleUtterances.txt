@@ -9,6 +9,8 @@ AMAZON.StartOverIntent new game
 AMAZON.StartOverIntent start
 AMAZON.StartOverIntent start new game
 
+AMAZON.RepeatIntent can you say that again please
+
 DontKnowIntent i don't know
 DontKnowIntent don't know
 DontKnowIntent skip
