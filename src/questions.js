@@ -7,251 +7,170 @@ module.exports = {
      */
     "QUESTIONS_EN_US" : [
         {
-            "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-                "13,000",
-                "1,200",
+            "At what altitude (in feet <say-as interpret-as=\"characters\">MSL</say-as>) does class A airspace begin?": [
+                "18,000",
+                "10,000",
+                "14,000",
+                "20,000",
+                "22,000",
+                "5,000"
+            ]
+        },
+        {
+            "At what altitude (in feet <say-as interpret-as=\"characters\">MSL</say-as>) does class A airspace end?": [
+                "60,000",
+                "50,000",
+                "40,000",
+                "20,000",
+                "30,000",
+                "18,000",
+                "70,000",
+                "100,000"
+            ]
+        },
+        {
+            "Class B airspace typically extends from the surface to what altitude (in feet <say-as interpret-as=\"characters\">MSL</say-as>)?": [
+                "10,000",
+                "8,000",
+                "12,000",
+                "4,000",
                 "5,000",
-                "700",
-                "1,000",
-                "120,000"
+                "6,000",
+                "15,000"
             ]
         },
         {
-            "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in. ": [
-                "Japan",
-                "United States",
-                "Finland",
-                "Germany",
-                "Canada",
-                "Norway",
-                "France"
+            "Class C airspace typically extends from the surface to what altitude (in feet <say-as interpret-as=\"characters\">AGL</say-as>)?": [
+                "4,000",
+                "8,000",
+                "12,000",
+                "10,000",
+                "5,000",
+                "6,000",
+                "15,000"
             ]
         },
         {
-            "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-                "Wunorse Openslae",
-                "Alabaster Snowball",
-                "Bushy Evergreen",
-                "Pepper Minstix"
+            "Class D airspace typically extends from the surface to what altitude (in feet <say-as interpret-as=\"characters\">AGL</say-as>)?": [
+                "2,500",
+                "1,500",
+                "2,000",
+                "3,000",
+                "3,500",
+                "4,000",
+                "4,500",
+                "5,000"
             ]
         },
         {
-            "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be": [
-                "Girls",
-                "Boys",
-                "Girls and boys",
-                "No way to tell"
+            "If the chart doesn't depict the base, at what altitude does class E airspace begin (in feet <say-as interpret-as=\"characters\">MSL</say-as>)?": [
+                "14,500",
+                "10,000",
+                "10,500",
+                "8,000",
+                "12,500",
+                "15,000"
             ]
         },
         {
-            "What do Reindeer eat?": [
-                "Lichen",
-                "Grasses",
-                "Leaves",
-                "Berries"
+            "To what altitude does class E airspace typically extend (in feet <say-as interpret-as=\"characters\">MSL</say-as>)?": [
+                "18,000",
+                "10,000",
+                "12,000",
+                "14,000",
+                "15,000",
+                "16,000",
+                "20,000"
             ]
         },
         {
-            "What of the following is not true?": [
-                "Caribou live on all continents",
-                "Both reindeer and Caribou are the same species",
-                "Caribou are bigger than reindeer",
-                "Reindeer live in Scandinavia and Russia"
+            "Which of the following airspaces is uncontrolled?": [
+                "Class G",
+                "Class A",
+                "Class B",
+                "Class C",
+                "Class D",
+                "Class E"
             ]
         },
         {
-            "In what year did Rudolph make his television debut?": [
-                "1964",
-                "1979",
-                "2000",
-                "1956"
+            "What airspace will you find over the water within 12 nautical miles of the coast?": [
+                "Class A",
+                "Class G",
+                "Class B",
+                "Class C",
+                "Class D",
+                "Class E"
             ]
         },
         {
-            "Who was the voice of Rudolph in the 1964 classic?": [
-                "Billie Mae Richards",
-                "Burl Ives",
-                "Paul Soles",
-                "Lady Gaga"
+            "In what airspace are all operations conducted under IFR (unless otherwise noted)?": [
+                "Class A",
+                "Class G",
+                "Class B",
+                "Class C",
+                "Class D",
+                "Class E"
             ]
         },
         {
-            "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-                "Montgomery Ward",
-                "Sears",
-                "Macys",
-                "Kmart"
+            "What is the airspace class given to the busiest airports in the nation?": [
+                "Class B",
+                "Class G",
+                "Class A",
+                "Class C",
+                "Class D",
+                "Class E"
             ]
         },
         {
-            "Santa\'s reindeer named Donner was originally named what?": [
-                "Dunder",
-                "Donny",
-                "Dweedle",
-                "Dreamy"
+            "What is the radius of the outer circle for a class C airspace (in nautical miles)?": [
+                "10",
+                "2",
+                "5",
+                "8",
+                "10",
+                "15",
+                "20"
             ]
         },
         {
-            "Who invented the story of Rudolph?": [
-                "Robert May",
-                "Johnny Marks",
-                "Santa",
-                "J.K. Rowling"
-            ]
-        },
-        {
-            "In what location will you not find reindeer?": [
-                "North Pole",
-                "Lapland",
-                "Korvatunturi mountain",
-                "Finland"
-            ]
-        },
-        {
-            "What Makes Santa\'s Reindeer Fly?": [
-                "Magical Reindeer Dust",
-                "Fusion",
-                "Amanita muscaria",
-                "Elves"
-            ]
-        },
-        {
-            "Including Rudolph, how many reindeer hooves are there?": [
-                "36",
-                "24",
-                "16",
-                "8"
-            ]
-        },
-        {
-            "Santa only has one female reindeer. Which one is it?": [
-                "Vixen",
-                "Clarice",
-                "Cupid",
-                "Cupid"
-            ]
-        },
-        {
-            "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-                "Sam",
-                "Frosty",
-                "Burl",
-                "Snowy"
-            ]
-        },
-        {
-            "What was Rudolph\'s father\'s name?": [
-                "Donner",
-                "Dasher",
-                "Blixen",
-                "Comet"
-            ]
-        },
-        {
-            "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-                "Comet",
-                "Blixen",
-                "Donner",
-                "Dasher"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-                "Fireball",
-                "Clarice",
-                "Jumper",
-                "Vixen"
-            ]
-        },
-        {
-            "In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?": [
-                "Black mud",
-                "Bag",
-                "Pillow case",
-                "Sock"
-            ]
-        },
-        {
-            "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-                "Dentist",
-                "Reindeer",
-                "Toy maker",
-                "Candlestick maker"
-            ]
-        },
-        {
-            "In the 1964 movie,what was the Bumble\'s one weakness?": [
-                "Could not swim",
-                "Always hungry",
-                "Candy canes",
-                "Cross eyed"
-            ]
-        },
-        {
-            "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-                "Peppermint",
-                "Gold",
-                "India",
-                "Polar Bears"
-            ]
-        },
-        {
-            "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-                "Square wheels",
-                "No Engine",
-                "Paint does not match",
-                "It does not toot"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the Jack in the Box?": [
-                "Charlie",
-                "Sam",
-                "Billy",
-                "Jack"
-            ]
-        },
-        {
-            "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-                "Storm",
-                "No snow",
-                "No toys",
-                "The Reindeer were sick"
-            ]
-        },
-        {
-            "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-                "Oink",
-                "Growl",
-                "Bark",
-                "Meow"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the prospector?": [
-                "Yukon Cornelius",
-                "Slider Sam",
-                "Bumble",
-                "Jack"
-            ]
-        },
-        {
-            "How far do reindeer travel when they migrate?": [
-                "3000 miles",
-                "700 miles",
-                "500 miles",
-                "0 miles"
-            ]
-        },
-        {
-            "How fast can a reindeer run?": [
-                "48 miles per hour",
-                "17 miles per hour",
-                "19 miles per hour",
-                "14 miles per hour",
-                "52 miles per hour",
-                "41 miles per hour"
+            "In what airspace does <say-as interpret-as=\"characters\">ATC</say-as> have no authority or responsibility?": [
+                "Class G",
+                "Class B",
+                "Class A",
+                "Class C",
+                "Class D",
+                "Class E"
             ]
         }
     ]
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

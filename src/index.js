@@ -3,7 +3,7 @@
 var APP_ID = process.env.APP_ID;
 
 var ANSWER_COUNT = 4; // The number of possible answers per trivia question.
-var GAME_LENGTH = 5;  // The number of questions per trivia game.
+var GAME_LENGTH = 3;  // The number of questions per trivia game.
 var GAME_STATES = {
     TRIVIA: "_TRIVIAMODE", // Asking trivia questions.
     START: "_STARTMODE", // Entry point, start the game.
