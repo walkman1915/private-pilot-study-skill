@@ -143,6 +143,95 @@ module.exports = {
                 "Class D",
                 "Class E"
             ]
+        },
+        {
+            "In which type of special use airspace is flight of aircraft prohibited?": [
+                "Prohibited",
+                "Restricted",
+                "Warning",
+                "Military Operation",
+                "Alert",
+                "Controlled Firing"
+            ]
+        },
+        {
+            "Which type of special use airspace is similar to restricted, but the <say-as interpret-as=\"characters\">US</say-as> government doesn't have sole jurisdiction?": [
+                "Warning",
+                "Prohibited",
+                "Military Operation",
+                "Alert",
+                "Controlled Firing"
+            ]
+        },
+        {
+            "Which type of special use airspace extends from 3 nautical miles outward from the coast of the <say-as interpret-as=\"characters\">US</say-as>?": [
+                "Warning",
+                "Prohibited",
+                "Restricted",
+                "Military Operation",
+                "Alert",
+                "Controlled Firing"
+            ]
+        },
+        {
+            "Which type of special use airspace extends from 3 nautical miles outward from the coast of the <say-as interpret-as=\"characters\">US</say-as>?": [
+                "Warning",
+                "Prohibited",
+                "Restricted",
+                "Military Operation",
+                "Alert",
+                "Controlled Firing"
+            ]
+        },
+        {
+            "Through which type of special use airspace can you not fly while it is 'active', or 'hot', without permission?": [
+                "Restricted",
+                "Warning",
+                "Prohibited",
+                "Military Operation",
+                "Alert",
+                "Controlled Firing"
+            ]
+        },
+        {
+            "Which type of special use airspace is listed on charts, but not numbered?": [
+                "Military Operation",
+                "Restricted",
+                "Warning",
+                "Prohibited",
+                "Alert",
+                "Controlled Firing"
+            ]
+        },
+        {
+            "Which type of special use airspace contains high volume of pilot training or unusual aerial activity?": [
+                "Alert",
+                "Military Operation",
+                "Restricted",
+                "Warning",
+                "Prohibited",
+                "Controlled Firing"
+            ]
+        },
+        {
+            "Which type of special use airspace is not listed on charts?": [
+                "Controlled Firing",
+                "Alert",
+                "Military Operation",
+                "Restricted",
+                "Warning",
+                "Prohibited"
+            ]
+        },
+        {
+            "Which type of special use airspace must stop its activities when a spotter sees a plane?": [
+                "Controlled Firing",
+                "Alert",
+                "Military Operation",
+                "Restricted",
+                "Warning",
+                "Prohibited"
+            ]
         }
     ]
 };
