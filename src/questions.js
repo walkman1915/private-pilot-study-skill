@@ -7,7 +7,7 @@ module.exports = {
      */
     "QUESTIONS_EN_US" : [
         {
-            "At what altitude (in feet <say-as interpret-as=\"characters\">MSL</say-as>) does class A airspace begin?": [
+            "At what altitude (in feet above mean sea level) does class A airspace begin?": [
                 "18,000",
                 "10,000",
                 "14,000",
@@ -17,7 +17,7 @@ module.exports = {
             ]
         },
         {
-            "At what altitude (in feet <say-as interpret-as=\"characters\">MSL</say-as>) does class A airspace end?": [
+            "At what altitude (in feet above mean sea level) does class A airspace end?": [
                 "60,000",
                 "50,000",
                 "40,000",
@@ -29,7 +29,7 @@ module.exports = {
             ]
         },
         {
-            "Class B airspace typically extends from the surface to what altitude (in feet <say-as interpret-as=\"characters\">MSL</say-as>)?": [
+            "Class B airspace typically extends from the surface to what altitude (in feet above mean sea level)?": [
                 "10,000",
                 "8,000",
                 "12,000",
@@ -40,7 +40,7 @@ module.exports = {
             ]
         },
         {
-            "Class C airspace typically extends from the surface to what altitude (in feet <say-as interpret-as=\"characters\">AGL</say-as>)?": [
+            "Class C airspace typically extends from the surface to what altitude (in feet above ground level)?": [
                 "4,000",
                 "8,000",
                 "12,000",
@@ -51,7 +51,7 @@ module.exports = {
             ]
         },
         {
-            "Class D airspace typically extends from the surface to what altitude (in feet <say-as interpret-as=\"characters\">AGL</say-as>)?": [
+            "Class D airspace typically extends from the surface to what altitude (in feet above ground level)?": [
                 "2,500",
                 "1,500",
                 "2,000",
@@ -63,7 +63,7 @@ module.exports = {
             ]
         },
         {
-            "If the chart doesn't depict the base, at what altitude does class E airspace begin (in feet <say-as interpret-as=\"characters\">MSL</say-as>)?": [
+            "If the chart doesn't depict the base, at what altitude does class E airspace begin (in feet above mean sea level)?": [
                 "14,500",
                 "10,000",
                 "10,500",
@@ -73,7 +73,7 @@ module.exports = {
             ]
         },
         {
-            "To what altitude does class E airspace typically extend (in feet <say-as interpret-as=\"characters\">MSL</say-as>)?": [
+            "To what altitude does class E airspace typically extend (in feet above mean sea level)?": [
                 "18,000",
                 "10,000",
                 "12,000",
@@ -135,7 +135,7 @@ module.exports = {
             ]
         },
         {
-            "In what airspace does <say-as interpret-as=\"characters\">ATC</say-as> have no authority or responsibility?": [
+            "In what airspace does Air Traffic Control have no authority or responsibility?": [
                 "Class G",
                 "Class B",
                 "Class A",
@@ -155,7 +155,7 @@ module.exports = {
             ]
         },
         {
-            "Which type of special use airspace is similar to restricted, but the <say-as interpret-as=\"characters\">US</say-as> government doesn't have sole jurisdiction?": [
+            "Which type of special use airspace is similar to restricted, but the United States government doesn't have sole jurisdiction?": [
                 "Warning",
                 "Prohibited",
                 "Military Operation",
@@ -164,7 +164,7 @@ module.exports = {
             ]
         },
         {
-            "Which type of special use airspace extends from 3 nautical miles outward from the coast of the <say-as interpret-as=\"characters\">US</say-as>?": [
+            "Which type of special use airspace extends from 3 nautical miles outward from the coast of the United States?": [
                 "Warning",
                 "Prohibited",
                 "Restricted",
@@ -174,7 +174,7 @@ module.exports = {
             ]
         },
         {
-            "Which type of special use airspace extends from 3 nautical miles outward from the coast of the <say-as interpret-as=\"characters\">US</say-as>?": [
+            "Which type of special use airspace extends from 3 nautical miles outward from the coast of the United States?": [
                 "Warning",
                 "Prohibited",
                 "Restricted",
